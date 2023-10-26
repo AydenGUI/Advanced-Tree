@@ -12,4 +12,4 @@ Options:
 -p           Displays file permissions.  
 -s           Displays file sizes.  
 -h           Displays this help message.  
--c <d1> <d2> Compares two directories [d1] and [d2]
+-c [d1] [d2] Compares two directories [d1] and [d2]
