@@ -6,7 +6,7 @@ To use tree, follow the usage instructions provided below:
 
 Usage: ./tree [directory-to-search] [-d <depth>] [-r] [-p] [-s] [-h] [-c <directory1> <directory2>]
 
-Options:
+Options:  
 -d [depth]   Specifies the maximum tree depth to display.  
 -r           Displays hidden files and directories.  
 -p           Displays file permissions.  
